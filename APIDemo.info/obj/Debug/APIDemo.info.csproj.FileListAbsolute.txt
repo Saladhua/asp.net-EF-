@@ -1,0 +1,11 @@
+E:\练习\test001\test02\APIDemo\APIDemo.info\bin\Debug\APIDemo.info.dll.config
+E:\练习\test001\test02\APIDemo\APIDemo.info\bin\Debug\APIDemo.info.dll
+E:\练习\test001\test02\APIDemo\APIDemo.info\bin\Debug\APIDemo.info.pdb
+E:\练习\test001\test02\APIDemo\APIDemo.info\bin\Debug\EntityFramework.dll
+E:\练习\test001\test02\APIDemo\APIDemo.info\bin\Debug\EntityFramework.SqlServer.dll
+E:\练习\test001\test02\APIDemo\APIDemo.info\bin\Debug\EntityFramework.xml
+E:\练习\test001\test02\APIDemo\APIDemo.info\bin\Debug\EntityFramework.SqlServer.xml
+E:\练习\test001\test02\APIDemo\APIDemo.info\obj\Debug\APIDemo.info.csproj.CoreCompileInputs.cache
+E:\练习\test001\test02\APIDemo\APIDemo.info\obj\Debug\APIDemo.info.csproj.CopyComplete
+E:\练习\test001\test02\APIDemo\APIDemo.info\obj\Debug\APIDemo.info.dll
+E:\练习\test001\test02\APIDemo\APIDemo.info\obj\Debug\APIDemo.info.pdb
